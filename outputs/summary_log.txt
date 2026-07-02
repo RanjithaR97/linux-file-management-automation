@@ -1,0 +1,9 @@
+2
+ranjitha@DESKTOP-NFV16LG:~$ grep "JPG\|PNG" ~/file_mover.log | wc -1
+2
+ranjitha@DESKTOP-NFV16LG:~$ nano file_manager.sh
+ranjitha@DESKTOP-NFV16LG:~$ cat summary.txt
+===== SUMMARY =====
+PDF Files Moved: 2
+Image Files Moved: 2
+ranjitha@DESKTOP-NFV16LG:~$
