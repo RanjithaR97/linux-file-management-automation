@@ -150,43 +150,8 @@ nano	Creates or edits the shell script
 touch	Creates sample files
 Screenshots
 
-Include screenshots of the following steps:
-
-Screenshot 1
-
-Creating sample files inside the Downloads directory.
-
-Screenshot 2
-
-Creating destination folders (PDFs and Images).
-
-Screenshot 3
-
-Writing the shell script (file_manager.sh).
-
-Screenshot 4
-
-Making the script executable.
-
-Screenshot 5
-
-Running the shell script.
-
-Screenshot 6
-
-Displaying the log file (file_mover.log).
-
-Screenshot 7
-
-Displaying the summary report (summary.txt).
-
-Screenshot 8
-
-Viewing the moved PDF files inside the PDFs folder.
-
-Screenshot 9
-
-Viewing the moved image files inside the Images folder.
+Output:
+Screenshots of output are uploaded in output folder
 
 Learning Outcome
 
