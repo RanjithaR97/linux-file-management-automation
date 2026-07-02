@@ -30,3 +30,12 @@ do
     mv "$file" "$IMG_DIR"
     echo "Moved PNG: $file" >> "$LOGFILE"
 done
+PDF_COUNT=$(grep "PDF" "$LOGFILE" | wc -l)
+
+IMG_COUNT=$(grep -E "JPG|PNG" "$LOGFILE" | wc -l)
+
+{
+echo "===== SUMMARY ====="
+echo "PDF Files Moved: $PDF_COUNT"
+echo "Image Files Moved: $IMG_COUNT"
+} > summary.txt
