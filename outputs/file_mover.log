@@ -1,0 +1,6 @@
+ranjitha@DESKTOP-NFV16LG:~$ cat ~/file_mover.log
+===== File Move Log =====
+Moved PDF: /home/ranjitha/Downloads/file2.pdf
+Moved PDF: /home/ranjitha/Downloads/file1.pdf
+Moved JPG: /home/ranjitha/Downloads/image1.jpg
+Moved PNG: /home/ranjitha/Downloads/image2.png
